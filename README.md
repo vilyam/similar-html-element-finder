@@ -1,0 +1,1 @@
+sbt "run ../startbootstrap-sb-admin-2-examples/sample-0-origin.html ../startbootstrap-sb-admin-2-examples/sample-1-evil-gemini.html"
